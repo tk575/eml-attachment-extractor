@@ -1,4 +1,4 @@
-# eml Attachment Extractor
+# EML Attachment Extractor
 
 Python script for extracting attachments from .eml files.
 
